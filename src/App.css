@@ -1,0 +1,29 @@
+nav {
+  position: sticky;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  height: 80px;
+  width: 100%;
+  overflow: hidden;
+  background: white;
+}
+body {
+  text-align: left;
+}
+header {
+  color: red;
+}
+footer {
+  position: sticky;
+  left: 0;
+  bottom: 0;
+  height: 80px;
+  width: 100%;
+  overflow: hidden;
+  background: white;
+}
+#snake {
+  width: 20%;
+  height: 20%;
+}
